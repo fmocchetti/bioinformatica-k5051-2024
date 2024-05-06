@@ -1,1 +1,1 @@
-# bioinformatico-k5051-2024
+# bioinformatica-k5051-2024

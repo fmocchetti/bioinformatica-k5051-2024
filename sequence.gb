@@ -1,0 +1,316 @@
+LOCUS       NM_001326542            6072 bp    mRNA    linear   PRI 06-APR-2024
+DEFINITION  Homo sapiens Sp4 transcription factor (SP4), transcript variant 2,
+            mRNA.
+ACCESSION   NM_001326542
+VERSION     NM_001326542.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6072)
+  AUTHORS   Wei,L., Deng,C., Zhang,B., Wang,G., Meng,Y. and Qin,H.
+  TITLE     SP4 Facilitates Esophageal Squamous Cell Carcinoma Progression by
+            Activating PHF14 Transcription and Wnt/Beta-Catenin Signaling
+  JOURNAL   Mol Cancer Res 22 (1), 55-69 (2024)
+   PUBMED   37768180
+  REMARK    GeneRIF: SP4 Facilitates Esophageal Squamous Cell Carcinoma
+            Progression by Activating PHF14 Transcription and Wnt/Beta-Catenin
+            Signaling.
+REFERENCE   2  (bases 1 to 6072)
+  AUTHORS   Dai,X., Luo,S., Guo,S., Zhou,W. and Song,W.
+  TITLE     Sp4 Regulates PTTG1IP Gene Transcription and Expression
+  JOURNAL   DNA Cell Biol 41 (12), 1053-1062 (2022)
+   PUBMED   36383136
+  REMARK    GeneRIF: Sp4 Regulates PTTG1IP Gene Transcription and Expression.
+REFERENCE   3  (bases 1 to 6072)
+  AUTHORS   Zhang,Q., Huo,J.H., Guo,L., Wang,L., Wang,C. and Li,M.
+  TITLE     Common and rare variants within SP4 exert distinct molecular
+            mechanisms contributing to the risk of schizophrenia
+  JOURNAL   Psychiatry Res 318, 114948 (2022)
+   PUBMED   36372009
+  REMARK    GeneRIF: Common and rare variants within SP4 exert distinct
+            molecular mechanisms contributing to the risk of schizophrenia.
+REFERENCE   4  (bases 1 to 6072)
+  AUTHORS   Cui,Y., Wang,W., Luo,P., Feng,Y., Mi,C. and Jia,A.
+  TITLE     The genetic polymorphisms in the SP4 gene and the risk of gastric
+            cancer
+  JOURNAL   Future Oncol 18 (36), 3993-4004 (2022)
+   PUBMED   36346067
+  REMARK    GeneRIF: The genetic polymorphisms in the SP4 gene and the risk of
+            gastric cancer.
+REFERENCE   5  (bases 1 to 6072)
+  AUTHORS   Gu,T., Pan,H., Zhang,F., Wang,L. and Cheng,Z.
+  TITLE     The FOXP4-AS1/miR-3130-3p/SP4 feedback loop is associated with
+            prostate cancer
+  JOURNAL   Cell Mol Biol (Noisy-le-grand) 68 (10), 161-166 (2022)
+   PUBMED   37114256
+  REMARK    GeneRIF: The FOXP4-AS1/miR-3130-3p/SP4 feedback loop is associated
+            with prostate cancer.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 6072)
+  AUTHORS   Suske,G.
+  TITLE     The Sp-family of transcription factors
+  JOURNAL   Gene 238 (2), 291-300 (1999)
+   PUBMED   10570957
+  REMARK    Review article
+REFERENCE   7  (bases 1 to 6072)
+  AUTHORS   Hagen,G., Dennig,J., Preiss,A., Beato,M. and Suske,G.
+  TITLE     Functional analyses of the transcription factor Sp4 reveal
+            properties distinct from Sp1 and Sp3
+  JOURNAL   J Biol Chem 270 (42), 24989-24994 (1995)
+   PUBMED   7559627
+REFERENCE   8  (bases 1 to 6072)
+  AUTHORS   Kalff-Suske,M., Kunz,J., Grzeschik,K.H. and Suske,G.
+  TITLE     Human Sp4 transcription factor gene (SP4) maps to chromosome 7p15
+  JOURNAL   Genomics 26 (3), 631-633 (1995)
+   PUBMED   7607696
+REFERENCE   9  (bases 1 to 6072)
+  AUTHORS   Majello,B., De Luca,P., Hagen,G., Suske,G. and Lania,L.
+  TITLE     Different members of the Sp1 multigene family exert opposite
+            transcriptional regulation of the long terminal repeat of HIV-1
+  JOURNAL   Nucleic Acids Res 22 (23), 4914-4921 (1994)
+   PUBMED   7800480
+REFERENCE   10 (bases 1 to 6072)
+  AUTHORS   Hagen,G., Muller,S., Beato,M. and Suske,G.
+  TITLE     Cloning by recognition site screening of two novel GT box binding
+            proteins: a family of Sp1 related genes
+  JOURNAL   Nucleic Acids Res 20 (21), 5519-5525 (1992)
+   PUBMED   1454515
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC004595.1 and BF438799.1.
+            
+            On May 31, 2019 this sequence version replaced NM_001326542.1.
+            
+            Summary: The protein encoded by this gene is a transcription factor
+            that can bind to the GC promoter region of a variety of genes,
+            including those of the photoreceptor signal transduction system.
+            The encoded protein binds to the same sites in promoter CpG islands
+            as does the transcription factor SP1, although its expression is
+            much more restricted compared to that of SP1. This gene may be
+            involved in bipolar disorder and schizophrenia. [provided by
+            RefSeq, May 2016].
+            
+            Transcript Variant: This variant (2) uses an alternate splice
+            junction in the 5' end compared to variant 1. The resulting isoform
+            (2) is shorter at the N-terminus compared to isoform 1.
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660809.146870.1,
+                                           SRR1660809.227525.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2142586, SAMEA2144333
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-176               AC004595.1         18750-18925
+            177-287             AC004595.1         19349-19459
+            288-1842            AC004595.1         19956-21510
+            1843-2071           AC004595.1         67746-67974
+            2072-2271           AC004595.1         72591-72790
+            2272-5794           AC004595.1         101689-105211
+            5795-6072           BF438799.1         5-282               c
+FEATURES             Location/Qualifiers
+     source          1..6072
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7p15.3"
+     gene            1..6072
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /note="Sp4 transcription factor"
+                     /db_xref="GeneID:6671"
+                     /db_xref="HGNC:HGNC:11209"
+                     /db_xref="MIM:600540"
+     exon            1..176
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    171..173
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /note="upstream in-frame stop codon"
+     exon            177..287
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             216..2519
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /note="isoform 2 is encoded by transcript variant 2"
+                     /codon_start=1
+                     /product="transcription factor Sp4 isoform 2"
+                     /protein_id="NP_001313471.1"
+                     /db_xref="CCDS:CCDS94063.1"
+                     /db_xref="GeneID:6671"
+                     /db_xref="HGNC:HGNC:11209"
+                     /db_xref="MIM:600540"
+                     /translation="MATEGGKTSEPENNNKKPKTSGSQDSQPSPLALLAATCSKIGTP
+                     GENQATGQQQIIIDPSQGLVQLQNQPQQLELVTTQLAGNAWQLVASTPPASKENNVSQ
+                     PASSSSSSSSSNNGSASPTKTKSGNSSTPGQFQVIQVQNPSGSVQYQVIPQLQTVEGQ
+                     QIQINPTSSSSLQDLQGQIQLISAGNNQAILTAANRTASGNILAQNLANQTVPVQIRP
+                     GVSIPLQLQTLPGTQAQVVTTLPINIGGVTLALPVINNVAAGGGTGQVGQPAATADSG
+                     TSNGNQLVSTPTNTTTSASTMPESPSSSTTCTTTASTSLTSSDTLVSSADTGQYASTS
+                     ASSSERTIEESQTPAATESEAQSSSQLQPNGMQNAQDQSNSLQQVQIVGQPILQQIQI
+                     QQPQQQIIQAIPPQSFQLQSGQTIQTIQQQPLQNVQLQAVNPTQVLIRAPTLTPSGQI
+                     SWQTVQVQNIQSLSNLQVQNAGLSQQLTITPVSSSGGTTLAQIAPVAVAGAPITLNTA
+                     QLASVPNLQTVSVANLGAAGVQVQGVPVTITSVAGQQQGQDGVKVQQATIAPVTVAVG
+                     GIANATIGAVSPDQLTQVHLQQGQQTSDQEVQPGKRLRRVACSCPNCREGEGRGSNEP
+                     GKKKQHICHIEGCGKVYGKTSHLRAHLRWHTGERPFICNWMFCGKRFTRSDELQRHRR
+                     THTGEKRFECPECSKRFMRSDHLSKHVKTHQNKKGGGTALAIVTSGELDSSVTEVLGS
+                     PRIVTVAAISQDSNPATPNVSTNMEEF"
+     exon            288..1842
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1843..2071
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2072..2271
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2272..6072
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      5989..5994
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /note="hexamer: ATTAAA"
+     polyA_site      5996
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /note="major polyA site"
+     polyA_site      6011
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /note="major polyA site"
+     regulatory      6047..6052
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+                     /note="hexamer: AATAAA"
+     polyA_site      6072
+                     /gene="SP4"
+                     /gene_synonym="HF1B; SPR-1"
+ORIGIN      
+        1 acagcccagc ggcggccatt cgcggaaaaa gaggcagagc ctgtgccagc tacagcctcc
+       61 tccgagccac cgcgggcggg cgggaccggc ctctcctccc gcctcgcccc cacccccacc
+      121 cacctctatc ccagtgtctc cgtctgaggg tttgtcctgt taatgcggga tgagcgaaga
+      181 aggaggagga ggaggaggcg gcagcggcag cggcgatggc tacagaagga gggaaaacct
+      241 ctgagccaga gaataacaat aaaaaaccca aaacctcagg ctcccaggac tctcagccct
+      301 ctcctctggc tttactggca gctacttgca gcaaaatagg gactcctggt gaaaatcaag
+      361 caactggaca acaacaaatt attatagatc caagtcaagg attggtgcaa cttcaaaatc
+      421 aaccacaaca gctagaactg gtaacaacgc aacttgctgg aaacgcttgg caacttgttg
+      481 cctccactcc tcctgcttca aaagagaata acgtttctca accagcctct agttcgtcta
+      541 gttcttccag cagtaataac gggagtgcat ctcctacaaa aactaaatca ggtaattctt
+      601 ccacccctgg tcaatttcaa gtcatacaag tacaaaatcc aagtggtagt gtacagtacc
+      661 aagtaattcc acaacttcag acagtggaag gtcaacaaat tcaaatcaat ccaactagta
+      721 gttcatctct acaggatttg cagggtcaaa ttcagctcat ttctgcaggt aataatcaag
+      781 ctatactcac agctgctaac aggacagctt ctgggaatat tcttgctcaa aacctggcaa
+      841 atcagacagt tccggtccaa attagacctg gtgtttcaat accactgcag ttacagactc
+      901 ttcctggtac tcaggctcaa gttgtaacaa ccctaccaat taacattgga ggagtgactc
+      961 tagctttgcc agtgataaac aacgtggctg ccggaggagg gactgggcag gttggccagc
+     1021 ctgctgctac tgctgatagt gggacttcca atgggaatca attagtttcc acacccacca
+     1081 acaccactac ttctgccagt actatgccag aatctccctc ctcctccact acctgcacaa
+     1141 ccactgcttc aacgtctttg acaagcagtg acacattagt gagctcagca gatactggcc
+     1201 agtatgcaag cacatcagcc agtagttctg aacgcaccat tgaagaatct caaacacctg
+     1261 ctgctactga gtctgaagcc cagagctcca gtcagcttca gcctaatgga atgcagaatg
+     1321 cacaggatca atcaaattct cttcagcagg tgcaaattgt aggccaacct atcttacagc
+     1381 agatccagat ccaacagcct cagcaacaga tcattcaggc tattccacca cagtcgtttc
+     1441 aactccagtc agggcagacg attcagacca tccagcagca gcctttacag aatgttcaac
+     1501 ttcaagcagt aaatccgact caggtgctta tcagggctcc aactttaaca ccttcagggc
+     1561 aaatcagttg gcaaactgta caggttcaga atattcagag tctttcaaat ttgcaagttc
+     1621 agaatgctgg gttatcccaa caattaacca tcaccccagt gtcttcaagt ggtggcacaa
+     1681 ctcttgctca gattgctcct gtggctgttg ctggtgcccc aataactttg aatactgccc
+     1741 agcttgcatc agtgcctaac cttcagacag tgagcgttgc caacctgggt gctgcaggtg
+     1801 ttcaagtgca gggagttccc gttacaatca ctagtgttgc aggtcagcag caaggacaag
+     1861 atggagtaaa agtccagcaa gctactatag ctcctgtaac tgtagcagtt ggaggaattg
+     1921 ctaatgccac gataggtgct gttagtcctg accaactcac acaagtgcat ttgcagcaag
+     1981 gccagcagac ttctgatcaa gaggtacaac ctggcaagag gcttcgaaga gttgcctgtt
+     2041 cctgtcctaa ttgtagggaa ggagaaggaa gaggcagtaa tgaaccagga aaaaagaagc
+     2101 agcatatctg tcatattgaa ggatgtggta aagtttatgg caaaacatct catttacgag
+     2161 cacatcttcg ctggcatact ggagaaagac cttttatatg caactggatg ttttgtggca
+     2221 aaagattcac acggagtgat gagctccaga gacatagaag aacccataca ggtgaaaaga
+     2281 gatttgaatg cccggaatgt tctaaaaggt ttatgcggag tgatcatctc tccaaacatg
+     2341 tcaaaacgca ccagaataaa aaaggtggtg ggacagctct tgccattgtt acctcgggag
+     2401 aactggactc atctgttaca gaggtgcttg gctccccaag aattgtcaca gttgcagcca
+     2461 tttctcaaga ttcgaatcca gcaactccca atgtttcaac caacatggaa gaattctgaa
+     2521 aagttattta taacagagac ctctagtgct gcacttgttt acacaccttt gaaaatctgg
+     2581 aaatgggctg gtcaagtgga ttacagagta ggaaattatg ttttcattct tggcttcttt
+     2641 aagtattcca gggtttgggg tcaacacgtg aagtgttgaa ttttaaaaaa tacaaaaagc
+     2701 agactgatgt actggaaaca gaaaagtatt tcctccatac tataagttgt agttgtttgg
+     2761 aaatatatca cataaccttt atacagaatc ttcccatctc ttaatatcat gtgttaacat
+     2821 gtttaaaaag accttagtag tttgcaggct ggaccttaat tggacttatt ttctttgaaa
+     2881 gtactttgtt ataaattcag tcagtaataa tttacgtgta ttctttttct ctatagcaca
+     2941 gaaaacagat agttaactga tgatagggat aatactgtat ttccttagct tgatttttgg
+     3001 aaaatcaacc gaaaatagtt tggccgtctt ttctaaatgt tagaaattct tcaacagttg
+     3061 aattaggtaa gttccaaaac agtaatctga gatgcatctc agatctttat taccactaca
+     3121 ttatagtagt gtgtatgcag acaatcagtg aagtccaatt actttctcca tttggagaca
+     3181 caagaggaac atagagttaa atcttaggtt aaattttagg ttgacacctt aggaaaatgc
+     3241 tgggaaaaaa atggttaaaa caaaactcat catagcttca gaaaaataaa atgaggcatc
+     3301 ttaacatgca atgttctaaa gttaggattg attatattcc taaccctagg ttgaaccaca
+     3361 aaatttcatt taaaatgttt atatttggaa atatttgcat agagtgtaaa ttgttctgta
+     3421 gtttcatatt ttgtaaatat gagttatgtt gacaatgtgc agaattcttt atgctttgat
+     3481 gtggtagcca aagaaagaat tacacttttt tccaaggcca gcagaaaatt ctcttttaac
+     3541 tacattgtaa ttcttgtttt cctctactaa aaattggcca gtcccatttt atttctagtg
+     3601 ctatgtaaga aggtaattag gaattataac acagtaatgt ttttatgtta catcaataac
+     3661 tgaattttcc ctaaaaatta gcctaatata taatagatat attatgaagc aaaactttta
+     3721 tttttgaaaa ggcagaataa ttttcagtga agtaagtgac taaagaaaaa aactatatta
+     3781 ttgtttatgc aagggtctta caggaaaggg tctttttttt tttttttttg agatggagtc
+     3841 tcgctctctt gcccaggctg gagtgcaatg gcacgatctc agcttactgc aaccgccgcc
+     3901 tcccaggttc aagcgattct cctgtcttag cctcctgagt agctgggatt aacaggcgcc
+     3961 tgccaccatg cctggctaat ttttgtattt ttagtagaga cagggtttcg ccatgttggc
+     4021 caggctggtt tcaaactcct gacctcaggt gatctgccca cctcggcctc ccagagtgct
+     4081 gggattacag gcatgagcca ccatgcccgg ctaggaaagg gtcttactag gaaagatggc
+     4141 caaaagtttc atatgaaaaa aattggatta taaaccagta acttaaatat taataaggat
+     4201 attttatgtt ttaaaaaagt atttacacag aatcataatc agtgaaattg accatttgaa
+     4261 aactaaaagt ttttacctac ctgctcaatt tattaacatc attgctttgg ggactgtttg
+     4321 aatataggta cgtgttttct tgtgcattct ctataatttc aggaaaagta ctaatgcgaa
+     4381 ttctcttcca aaattgtgat gtttcttgta tttttgatga aggagaaata ctgtaatgat
+     4441 cactgtttac actatgtaca ctttaggcca gccctttgta gcgttatata aaactgaagg
+     4501 tcttttgtgc tttcagtttg tataaaaaag ctttgagatt aaaggaaaaa aaaaattttt
+     4561 acactgtggt tataaatttc aagtttctta aagcttttgt agacttgtaa cagagtcttt
+     4621 aaatttaagt tggattttgt aaattgtttt gtatatttta tttaatgtac tcttaacaac
+     4681 tgatgtatct ggctttaaaa catcagaatt ggtttgttgt tttgtttggt acagaggagc
+     4741 atttggtagt gttcatttta attttattat ataggagctg aaacatcaaa tatatatttt
+     4801 atctatcatt atgctacaca atcagtgcta taaatttttt tatgcaaaga aactttctta
+     4861 atgttttaat catgtttcct cagagtgaca ctttttgttg ttgttaatac caagtatgaa
+     4921 cactctgcat cattattcca tgaaccagtt ctaatgcaaa cctatgtatg tccattagaa
+     4981 atggaagtta ttttttaatc aacaatgagg cctattataa atttatcaga tgaatctaga
+     5041 tagctttata gcatataaaa tatgttaatt tgtgttagca ggtgcacatt tcaccactga
+     5101 aattagaaat attttgacag tctgttctgc ataccattct gagtctactt ttctgtcttt
+     5161 agaagaatcg taaatttcag tgtcctttat ttgactcagt gggatatagc tgttataagt
+     5221 aatagggcac agatgtgcag tagagtcttg tttaatggca tttcactgtt cattcccttt
+     5281 accaccgtta taaaactttt ctttattgta attatcagtg caaagctatg tatttatcat
+     5341 ggtaaaactc cagtgttaga atagtttttt cttacagtat actttctttg gttaggtttg
+     5401 tgtatgtgtt gctgattaca ttagaacttg atgttaagtc atttatcaca ctctcatgag
+     5461 agcagtaata aaagtgtgta atctaggaga aaaagttaat ttgtcaaact tagataagca
+     5521 tgatgtttag gtcctatttt tcaattttat aactgtttta ttgcaacaat atttgtattt
+     5581 aagtctccat tttaatgcct tgtggtgttt ttttatgcat gtcactaagt tgtcatccca
+     5641 cataaattga tgtgcagcat agggtattaa atctacataa tgattttaaa acagaaatag
+     5701 ttgatggtaa aatgtaaatg ttttgcaaaa attccttata aaaagttttg tagtaacatt
+     5761 tcacttgtaa attttttttg taaaaaaaaa aaaatgaaaa aaaaagatga atccagaaaa
+     5821 aaacctgttt cccatattct agaatttaga caattattct gccagcaaag cctctggggc
+     5881 tgtaattgac atttttacag tgctgatttg tataaaattt gttttttgtg gatttggaaa
+     5941 taaaatcatg tacaagttgt tgcctgcaat aacaattgca agtaacctat taaaaattcc
+     6001 cttgagttta acatgtttca tttaattatg tatactataa agcagcaata aattatttga
+     6061 actatcaacc ta
+//
+
